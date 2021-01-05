@@ -66,7 +66,8 @@ _Managed a team of 3 analysts, providing economic and market analysis of global 
 
 _Traded crude oil futures, working as part of a five-person trading desk. Given responsibility to trade my own book after 2 years (normally takes 3+ years)._
 
-- Generated an average 14% annual return on my book with a maximum drawdown of 4.5% (by comparison, the S&P 500 Energy Index had an annualised return of 7% and drawdown of 20% over the same period).<br></br>
+- Generated an average 14% annual return on my book with a maximum drawdown of 4.5% (by comparison, the S&P 500 Energy Index had an annualised return of 7% and drawdown of 20% over the same period).
+
 
 ## Education
 
@@ -83,7 +84,8 @@ _Learnt how to apply industry-standard best practices to write clean code to sol
 
 **University College London**
 
-**BSc Economics:** 1st Class Honours<br></br>
+**BSc Economics:** 1st Class Honours
+
 
 ## Hobbies
 
