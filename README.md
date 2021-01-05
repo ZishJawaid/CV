@@ -20,6 +20,39 @@ I am extremely keen to leverage the project management, communication, and colla
 | [**Nomad BnB**](https://github.com/just-tam/makersBnB)             | A web application that allows users to list spaces they have available or hire a space for the night. <br>                                                | Ruby, Javascript, MongoDB              |
 
 
+## Skills
+
+#### Adaptable and proactive mindset
+
+I believe I am extremely versatile, and have the ability to quickly adapt, and embrace unfamiliar tasks with an inquisitive and enthusiastic mind. I have always looked to step outside of my comfort zone, as evidence by:
+
+- Starting my own successful business trading commodity futures, which required courage, determination and a proactive mindset to overcome numerous hurdles.
+- My decision to broaden my horizons by working in Germany, and improve my spoken German from a conversational to a business level at Dresdner Bank.
+- Travelling around SE Asia during a sabbatical, teaching English to school children.
+
+#### Team player and strong communicator
+
+- Ability to explain concepts in a clear and concise way, and effectively adjust my communication style depending on whether I was directly briefing the Chancellor at HM Treasury, pairing with my Makers buddy, teaching school children in Japan, or presenting at international conferences for Dresdner Bank.
+- Known for my empathetic listening skills and personable nature, as shown by the networks and client relationships I built whilst at Lehman Brothers, Dresdner Bank, and HM Treasury.
+- Experience leading, inspiring and managing a diverse range of teams, from traders and economists in both public and private sector settings, to captaining my five-a-side football team to victory in my local league.
+
+#### Business and client focused with proven project management skills
+
+- My prior experience of managing large-scale projects will enable me to contribute effectively to Deloitte’s Agile/Scrum based work flows. I have project managed the front-to-end delivery of a successful 4 day Chancellor visit to the Gulf. This involved chairing stakeholder strategy meetings to scope requirements, pitching the business case directly to the Chancellor, and running 4-day sprints with regular progress meetings. The 6 week project was delivered on time and satisfied departmental budgetary criteria.
+- During a two-week group project at Makers, we were tasked with building an Airbnb clone. I persuaded our team to identify and then deliver our MVP by the end of our first 2 day sprint, rather than focus on implementing a number of backend features that a client wouldn’t be able to use in isolation. This improved the team dynamic and morale as the deadlines approached, as we were confident of being able to deliver a viable product to our client at any stage of the development process.
+
+#### Systematic yet innovative problem solver
+
+- Analysed 1000s of trades to identify areas to improve my trading edge and process, requiring discipline and a meticulous attention to detail, a skill I have carried across to my debugging process.
+- My analysis showed that my trade entry/exit was sub-optimal under certain market conditions, which led to a revision of my strategy by scaling in to positions and taking profits at predefined levels related to market volatility. This adjustment increased my profit per trade by 5%.
+
+#### Quick learner with a passion for knowledge sharing
+
+- Developed an Android app in 2 weeks using Java, Firebase and Android Studios, a tech stack I had never used before.
+- Balanced full-time trading with self-study to learn the fundamentals of using Options as a hedging strategy to minimise the risk exposure of my portfolio, widely known to be a difficult and technical concept.
+- Mentored 2 students at Makers and volunteered to run our end-of-week cohort retro for 12 students, providing the opportunity for my peers to reflect on their group projects.
+
+
 ## Experience
 
 **Independent Commodities Futures Trader** | Sept 2014 – June 2020
